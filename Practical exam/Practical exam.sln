@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Wormtest", "Practical exam\01. Wormtest.csproj", "{F85D7D3E-C89C-4D7D-97A6-8C55DFD1C1EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Worm Ipsum", "02. Worm Ipsum\02. Worm Ipsum.csproj", "{53913FD9-4386-47CC-BF49-40C1DB7ECEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Wormhole", "03\03. Wormhole.csproj", "{1609A73F-4942-4A86-A644-89A63498730D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Worms World Party", "04. Worms World Party\04. Worms World Party.csproj", "{8365BD9C-F45E-425A-96A3-A2537A501281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85D7D3E-C89C-4D7D-97A6-8C55DFD1C1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85D7D3E-C89C-4D7D-97A6-8C55DFD1C1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85D7D3E-C89C-4D7D-97A6-8C55DFD1C1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85D7D3E-C89C-4D7D-97A6-8C55DFD1C1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53913FD9-4386-47CC-BF49-40C1DB7ECEA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53913FD9-4386-47CC-BF49-40C1DB7ECEA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53913FD9-4386-47CC-BF49-40C1DB7ECEA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53913FD9-4386-47CC-BF49-40C1DB7ECEA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1609A73F-4942-4A86-A644-89A63498730D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1609A73F-4942-4A86-A644-89A63498730D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1609A73F-4942-4A86-A644-89A63498730D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1609A73F-4942-4A86-A644-89A63498730D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8365BD9C-F45E-425A-96A3-A2537A501281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8365BD9C-F45E-425A-96A3-A2537A501281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8365BD9C-F45E-425A-96A3-A2537A501281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8365BD9C-F45E-425A-96A3-A2537A501281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

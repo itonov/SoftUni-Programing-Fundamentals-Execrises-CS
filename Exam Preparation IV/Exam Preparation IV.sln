@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sweet Dessert", "01. Sweet Dessert\01. Sweet Dessert.csproj", "{3DA7790A-68CA-4651-A504-1B8BAE291836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Array Manipulator", "02. Array Manipulator\02. Array Manipulator.csproj", "{1917E35A-D5BF-4FE8-8931-3E9773142CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA7790A-68CA-4651-A504-1B8BAE291836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA7790A-68CA-4651-A504-1B8BAE291836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA7790A-68CA-4651-A504-1B8BAE291836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA7790A-68CA-4651-A504-1B8BAE291836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1917E35A-D5BF-4FE8-8931-3E9773142CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1917E35A-D5BF-4FE8-8931-3E9773142CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1917E35A-D5BF-4FE8-8931-3E9773142CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1917E35A-D5BF-4FE8-8931-3E9773142CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
